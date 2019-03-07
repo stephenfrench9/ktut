@@ -1,0 +1,1 @@
+kubectl rollout undo deployments/kubernetes-bootcamp
